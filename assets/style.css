@@ -1,0 +1,10 @@
+
+img, h5 {
+    transition: all 0.3s;
+}
+img:hover, h5:hover {
+    transform: scale(1.15);
+}
+.nav-link:hover {
+    color: burlywood !important;
+}
